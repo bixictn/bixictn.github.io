@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-  <meta charset="UTF-8">
-  <title>安裝 Firefox 擴充功能</title>
+  <meta charset="UTF-8"> 
 </head>
 <body>
   <h1>安裝擴充功能</h1>
