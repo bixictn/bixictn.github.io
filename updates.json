@@ -1,0 +1,20 @@
+{
+  "addons": {
+    "bixictn@gmail.com": {
+      "updates": [
+        {
+          "version": "0.5.3.3",
+          "update_link": "https://bixictn.github.io/Miin-cc-firefox(0.5.3.3).xpi"
+        },
+        {
+          "version": "0.5.5",
+          "update_link": "https://bixictn.github.io/Miin-cc-firefox(0.5.5).xpi"
+        },
+        {
+          "version": "0.5.5.1",
+          "update_link": "https://bixictn.github.io/Miin-cc-firefox(0.5.5.1).xpi"
+        }
+      ]
+    }
+  }
+}
