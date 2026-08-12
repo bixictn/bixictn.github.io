@@ -1,6 +1,0 @@
-/*.xpi
-  Content-Type: application/x-xpinstall
-
-/update.json
-  Content-Type: application/json
-  Access-Control-Allow-Origin: *
